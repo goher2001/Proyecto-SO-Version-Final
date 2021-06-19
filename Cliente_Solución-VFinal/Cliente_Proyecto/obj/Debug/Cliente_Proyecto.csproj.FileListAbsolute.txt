@@ -1,0 +1,161 @@
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Conectar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Conectar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\SO Proyecto\Cliente_Solución-V3\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Invitacion.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Conectar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Invitacion.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Conectar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Invitacion.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Conectar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Invitacion.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-2\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Eliminar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Conectar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Eliminar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Invitacion.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V4.prueba-4\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Conectar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Eliminar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Invitacion.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V4 dado\Cliente_Solución-V5\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Conectar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Eliminar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Invitacion.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V7\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Conectar.resources
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Eliminar.resources
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Invitacion.resources
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\bin\Debug\MaterialSkin.dll
+C:\Users\Usuari\OneDrive\Documentos\UPC\UPC\2B\SO\Cliente_Solución-V8\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CopyComplete
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe.config
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\bin\Debug\Cliente_Proyecto.pdb
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\bin\Debug\MaterialSkin.dll
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Conectar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Eliminar.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Invitacion.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Logging.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.Registro.resources
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.csproj.CopyComplete
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.exe
+C:\Users\chris\OneDrive\Escritorio\Universidad\2B\Sistemes Operatius\Servidor V7 dado\Cliente_Solución-V9\Cliente_Proyecto\obj\Debug\Cliente_Proyecto.pdb
