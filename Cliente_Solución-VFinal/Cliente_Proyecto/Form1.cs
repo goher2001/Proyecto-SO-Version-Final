@@ -488,8 +488,8 @@ namespace Cliente_Proyecto
         private void ConectarB_Click(object sender, EventArgs e)
         {
             //conectarse a la base de datos
-            IPAddress direc = IPAddress.Parse("192.168.56.103");
-            IPEndPoint ipep = new IPEndPoint(direc,9260 );
+            IPAddress direc = IPAddress.Parse("147.83.117.22");
+            IPEndPoint ipep = new IPEndPoint(direc,50051);
             server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             try
             {
